@@ -1,0 +1,41 @@
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yucea\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\facult\cs408\WindowsFormsApp kaan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\developments\Fiverr\step1\step1\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
